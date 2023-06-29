@@ -1,0 +1,83 @@
+/*Body settings*/
+body{
+    font-family: 'HISKYFLIPPERHIBOLD' !important;
+    background-color: #a6ebf7 !important;
+    text-align: center !important;
+}
+
+/*Responsive settings*/
+@media (min-width:1200px) {
+    #main-div{
+        width: 35%;
+    } 
+    h1{
+        font-size: 4rem !important;
+    }
+}
+@media (min-width:992px) and (max-width:1200px) {
+    #main-div{
+         width: 50% !important;
+    }
+    h1{
+        font-size: 3.5rem !important;
+    }
+ }
+@media (min-width:768px) and (max-width:992px) {
+    #main-div{
+         width: 70% !important;
+    }
+    h1{
+        font-size: 3rem !important;
+    }
+ }
+@media (min-width:576px) and (max-width:768px) {
+    #main-div{
+        width: 100%;
+    } 
+    h1{
+        font-size: 2.5rem !important;
+    }
+}
+@media (max-width:576px) {
+    #main-div{
+        width: 100%;
+    } 
+    h1{
+        font-size: 2rem !important;
+    }
+}
+/*Appearence and margin*/
+h1{
+    color: #c20c4b !important;
+}
+.card-item{
+    border: 1px solid #c20c4b;
+    border-radius: 10%;
+    background-color: #dcf3f7;
+}
+.card-item, .start-div{
+    cursor: pointer;
+}
+#title-div{
+    margin-bottom: 5%;
+}
+.start-div, .footer{
+    margin-top: 20px;
+}
+
+/*Behaviors*/
+.card-item:active{
+    transform: perspective(7.5cm) rotateX(0deg) rotateY(45deg);
+}
+#start-btn:hover{
+    width: calc(25% + 1vw);
+}
+#start-btn:active{
+    width: calc(25% - 1vw);
+}
+.hidden{
+    display: none;
+}
+.wrong{
+    background-color: red;
+}
