@@ -1,4 +1,3 @@
-![image](https://github.com/mclaramarinho/browser-matching-game/assets/119897667/9dc4a269-0044-40fb-94c6-c7f64803a37b)# Browser Matching Game
 A matching game to play on the browser, built with HTML, CSS, BS and jQuery.
 Live URL: []
 
