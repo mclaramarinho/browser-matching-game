@@ -17,7 +17,6 @@ Live URL: []
 3. ![image](https://github.com/mclaramarinho/browser-matching-game/assets/119897667/bddf560a-50a1-41b2-9342-467eda2b25bf)
 4. ![image](https://github.com/mclaramarinho/browser-matching-game/assets/119897667/edb8fb9a-a005-49b3-a07f-d567b4614e7d)
 5. ![image](https://github.com/mclaramarinho/browser-matching-game/assets/119897667/d048d0ab-26c9-4ca9-8d3b-27d150826512)
-6. ![image](https://github.com/mclaramarinho/browser-matching-game/assets/119897667/01f366b0-fbd6-4715-bf01-ae7f383c53e8)
 
 ## BUILT WITH
  - HTML
